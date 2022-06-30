@@ -3,7 +3,7 @@ A git repository to track coursework in mathematics.
 
 # Algebra
 
-Course Link: https://www.coursera.org/specializations/algebra-elementary-to-advanced
+Course Link: [Algebra: Elementary to Advanced Specialization](https://www.coursera.org/specializations/algebra-elementary-to-advanced)
 
 Summary: 
 
