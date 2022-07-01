@@ -1,4 +1,5 @@
-# coursework-mathematics
+# **Project: Coursework Mathematics***
+
 A git repository to track coursework in mathematics.
 
 # Algebra
@@ -15,3 +16,13 @@ Certificate:
 
 
 # Precalculus
+
+Course Link: [Precalculus through Data and Modelling Specialization](https://www.coursera.org/specializations/precalculus-data-modelling)
+
+Summary:
+
+Introduction to the topics of precalculus
+
+Certificate:
+
+![image](https://user-images.githubusercontent.com/96816530/176964604-f755066b-4f0f-4606-96a8-98693e5d5275.png)
