@@ -1,4 +1,4 @@
-# **Project: Coursework Mathematics***
+# **Project: Coursework Mathematics**
 
 A git repository to track coursework in mathematics.
 
