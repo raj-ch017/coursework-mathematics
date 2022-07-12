@@ -15,6 +15,27 @@ Learning Mathematics is learning to speak the language of nature and it's workin
 
 This repository has been built to keep a track of coursework that I complete in Mathematics. The primary motivation is to keep learning and improving my mathematical skills, which in turn improves my intuition and ability to deal with abstraction.
 
+# Task List 
+
+This list defines the order that will be followed in building this repository. 
+
+- [ ] [Introduction to Mathematical Thinking](https://www.coursera.org/learn/mathematical-thinking) 
+- [ ] [Calculus 1A: Differentiation](https://www.edx.org/course/calculus-1a-differentiation) 
+- [ ] [Calculus 1B: Integration](https://www.edx.org/course/calculus-1b-integration)
+- [ ] [Calculus 1C: Coordinate Systems & Infinite Series](https://www.edx.org/course/calculus-1c-coordinate-systems-infinite-series)
+
+#
+
+gantt
+    title A Gantt Diagram
+    dateFormat  YYYY-MM-DD
+    section Section
+    A task           :a1, 2014-01-01, 30d
+    Another task     :after a1  , 20d
+    section Another
+    Task in sec      :2014-01-12  , 12d
+    another task      : 24d
+
 # 
 
 ## **Mathematical Thinking in Computer Science**
@@ -33,6 +54,7 @@ Topics include:
 
 ![image](https://user-images.githubusercontent.com/96816530/177520349-50ed139f-7325-4b81-a37d-76a95670a8aa.png)
 #
+
 
 # Algebra
 
