@@ -15,14 +15,24 @@ Learning Mathematics is learning to speak the language of nature and it's workin
 
 This repository has been built to keep a track of coursework that I complete in Mathematics. The primary motivation is to keep learning and improving my mathematical skills, which in turn improves my intuition and ability to deal with abstraction.
 
-# Mathematical Thinking in Computer Science
+# 
+
+## **Mathematical Thinking in Computer Science**
 
 Course Link: [Mathematical Thinking in Computer Science](https://www.coursera.org/learn/what-is-a-proof)
 
-Certificate: 
+Summary: The course introduces the basic mathematical concepts that are applied in computation. The introduction focuses on breadth over depth. The course required basic programming knowledge as the topics were taught and tested using Python. 
+
+Topics include:
+
+  * Recursion
+  * Induction
+  * Logic
+  * Invariants
+  
 
 ![image](https://user-images.githubusercontent.com/96816530/177520349-50ed139f-7325-4b81-a37d-76a95670a8aa.png)
-
+#
 
 # Algebra
 
