@@ -71,7 +71,25 @@ Course Link: [Algebra: Elementary to Advanced Specialization](https://www.course
 
 Summary: 
 
-This course provides an introduction to Algebra.
+The specilization provides introduction to the elementary algebraic concepts of equations, inequalities. It also introduces the concept of functions and provides a tour of the classic set of functions and their properties like shifting, odd and even, graphing functions. Polynomials and their behavioural properties depending on their degree and finding roots along with graphing techniques.
+
+**1. Course 1 - Equations and Inequalities:**
+  * Structure of Number System
+  * Solving Equations
+  * Solving Inequalities
+  * System of Equations
+  
+**2. Course 2 - Function and Applications:**
+  * Introduction to Functions
+  * Properties of Functions 
+  
+**3. Course 3 - Polynomials and Roots:**
+  * Exponential and it's Inverse
+  * Polynomials
+  * Roots of Polynomials
+  
+    
+
 
 Certificate: 
 
@@ -95,7 +113,7 @@ Certificate:
 
 # 4. Differential Calculus through Data and Modelling
 
-Course Link:
+Course Link: [Differential Calculus through Data and Modelling](https://www.coursera.org/specializations/differential-calculus-data-modeling)
 
 Summary:
 
