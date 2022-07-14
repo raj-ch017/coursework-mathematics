@@ -90,9 +90,6 @@ The specilization provides introduction to the elementary algebraic concepts of 
   
     
 
-
-Certificate: 
-
 ![image](https://user-images.githubusercontent.com/96816530/176493193-dca2ba79-1c6c-41bf-b814-0bb2a7673732.png)
 
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------
@@ -103,9 +100,26 @@ Course Link: [Precalculus through Data and Modelling Specialization](https://www
 
 Summary:
 
-Introduction to the topics of precalculus
+This specialization involves introductory concepts of Precalculus which has been divided into three courses.
 
-Certificate:
+**1. Course 1 - Relation and Functions:**
+  * Basic and Common Functions
+  * Equations of Lines and Quadratics
+  * Exponential and Logarithmic Functions
+  * Properties of Logarithms
+  
+**2. Course 2 - Periodic Functions:**
+  * Periodic Functions
+  * Right Triangle Trigonometry
+  * Sine and Cosine as Periodic Functions
+  * Tangent and Other Periodic Functions
+  * Identities of Periodic Functions
+  
+**3. Course 3 - Mathematical Modelling:**
+  * Linear Modelling
+  * Exponential Modelling
+  * Dimensional Analysis
+  
 
 ![image](https://user-images.githubusercontent.com/96816530/176964604-f755066b-4f0f-4606-96a8-98693e5d5275.png)
 
@@ -117,8 +131,56 @@ Course Link: [Differential Calculus through Data and Modelling](https://www.cour
 
 Summary:
 
-Certificate: 
+This specialization provides an introduction to topics in single and multivariable calculus, and focuses on using calculus to address questions in the natural and social sciences. Students will learn to use the tools of calculus to process, analyze, and interpret data, and to communicate meaningful results, using scientific computing and mathematical modeling. Topics include functions as models of data, differential and integral calculus of functions of one and several variables, differential equations, and optimization and estimation techniques. 
+
+**1. Course 1: Precalculus Review:**
+  * Exponential and Logarithmic Functions
+  * Trigonometric Functions
+  * Vector in Space
+  * Equations of Lines and Planes
+  
+ **2. Course 2: Limits and Derivatives:**
+  * Limit of Function
+  * Limit Laws
+  * Continuity
+  * Limits at Infinity
+  * Derivatives
+  
+**3. Course 3: Differentiation Rules:**
+  * Derivatives of Polynomials, Exponential and Logarithmic Functions
+  * Product and Quotient Rules
+  * Derivatives of Trigonometric Function
+  * Chain Rule
+  * Partial Derivatives
+  * Directional Derivatives and Gradient Vectors
+  
+**4. Course 4: Applying Differentiation:**
+  * Linear Approximation and Tangent Planes
+  * Maxima and Minima of Single-Variable Function
+  * Maxima and Minima of Multi-Variable Function
+  * Lagrange Multiplier
+
 
 ![image](https://user-images.githubusercontent.com/96816530/178725965-f6a667b6-224b-4934-95d7-c7a64b4aa2c9.png)
 
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+# 5. Calculus through Data & Modelling: Series and Integration
+
+Course Link: [Calculus through Data & Modelling](https://www.coursera.org/learn/calculus-through-data-and-modelling-techniques-of-integration?specialization=integral-calculus-data-modeling)
+
+Summary: 
+
+These foundational tools allow us to develop the theory and applications of the second major tool of calculus: the integral.  Rather than measure rates of change, the integral provides a means for measuring the accumulation of a quantity over some interval of input values.  This notion of accumulation can be applied to different quantities, including money, populations, weight, area, volume, and air pollutants.  The concepts in this course apply to many other disciplines outside of traditional mathematics. Through projects, we will apply the tools of this course to analyze and model real world data, and from that analysis give critiques of policy. 
+
+Topics include: 
+
+  * Sequence and Series
+  * Definite Integral
+  * Fundamental Theorem of Calculus
+  * Indefinite Integral
+  
+ ![image](https://user-images.githubusercontent.com/96816530/178943404-518bdc93-19fd-485c-981a-66de4a9381d7.png)
+ 
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
